@@ -2,3 +2,5 @@ galletitas
 mandarina 
 papa
 lechuga
+----
+farmacia
