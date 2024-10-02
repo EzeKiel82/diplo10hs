@@ -1,0 +1,43 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red; /*esto es un comentario*/
+    background-color: yellow;
+    text-align: center;
+
+}
+h2{
+    color: blue;
+    text-transform: uppercase;
+
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+    font-size: 20px;
+}
+
+.destacados{
+     font-weight: bold;
+    
+}
+
+#texto{
+    width: 300px;
+    height: 400px ;
+    background-color: orange;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+#texto p{
+    color: white;
+}
+
+#texto:hover{
+    background-color: aqua;
+
+}

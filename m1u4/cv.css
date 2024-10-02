@@ -1,0 +1,33 @@
+h1{
+    font-size: 50px;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2{
+    font-size: 25px;
+}
+
+p{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: brown; 
+}
+
+.destaque{
+    color: rgb(119, 0, 255);
+    font: bold;
+    font-style: oblique;
+}
+
+#texto{
+    width: 200px;
+    height: 250px ;
+    background-color: rgb(255, 0, 221);
+    padding: 20px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    margin: 0 auto;
+    cursor: pointer; 
+}
