@@ -1,0 +1,32 @@
+#contenedor {
+	background-color: white;
+	border: 1px black;
+	border-style: dashed;
+	width: 600px;
+	height: 600px;
+	display: flex;
+	flex-direction: row;
+	flex-direction: row-reverse;
+	align-items: center;
+}
+
+#rojo {
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+	background-color: red;
+}
+
+#azul {
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+	background-color: blue;
+}
+
+#verde {
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+	background-color: green;
+}

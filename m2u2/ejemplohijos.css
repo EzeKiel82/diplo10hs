@@ -1,0 +1,12 @@
+p:first-child {
+    color: lime;
+    background-color: black;
+    padding: 5px;
+}
+
+p:nth-child(1) {
+    color: rgb(255, 0, 55);
+    background-color: yellow;
+    padding: 5px;
+    margin-left: 15px;
+}
